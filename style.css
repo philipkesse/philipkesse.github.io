@@ -1,0 +1,53 @@
+body {
+  font-family: "Playfair Display", serif;
+  line-height: 1.6;
+  margin: 20px;
+  background-image: url("https://www.tubefilter.com/wp-content/uploads/2018/09/the-price-of-free.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  backdrop-filter: blur(15px);
+  color: #ffffff;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h1 {
+  border: 2px solid #ffffff;
+  padding: 5px;
+}
+
+h2 {
+  border: 2px solid #ffffff;
+  margin-top: 30px;
+  padding: 5px;
+}
+
+p {
+  /* Add some margin to separate paragraphs */
+  margin-bottom: 10px;
+}
+
+.second-paragraph {
+  font-style: italic;
+}
+
+.third-paragraph {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
